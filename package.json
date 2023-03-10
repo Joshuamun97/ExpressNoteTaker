@@ -18,9 +18,10 @@
   },
   "homepage": "https://github.com/Joshuamun97/ExpressNoteTaker#readme",
   "dependencies": {
-    "clog": "^0.1.6",
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "uuid": "^9.0.0"
   }
 }
